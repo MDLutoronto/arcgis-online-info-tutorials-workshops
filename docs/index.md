@@ -3,6 +3,9 @@ title: "ArcGIS Online: Information, Tutorials, and Workshops"
 layout: "home"
 description: "ArcGIS Online is a web-based mapping software that allows you to build, share, and access interactive web maps."
 created_date: 2022-06-20
+maintainer:
+    - name: Cole White
+      link: https://library.utoronto.ca/staff/cole-white
 permalink: "/"  #! Remove this if not the homepage
 ---
 
