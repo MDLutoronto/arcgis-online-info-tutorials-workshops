@@ -27,13 +27,17 @@ Learning resources
 	+ To follow along with the videos, please [download the accompanying workshop data](https://maps-library-utoronto-ca.myaccess.library.utoronto.ca/workshops/ArcGISOnline/ArcGISOnlineTutorialData.zip)
 	+ Please note that at this time, a **UTORid and password is required** to view the videos embedded below
 
-#### [Part I: Loading and Symbolizing Data](https://maps-library-utoronto-ca.myaccess.library.utoronto.ca/workshops/ArcGISOnline/2021/videos/ArcGISOnlinePart1/) (video)
+#### [Part I: Loading and Symbolizing Data](https://maps.library.utoronto.ca/workshops/ArcGISOnline/2021/videos/ArcGISOnlinePart1/) (video)
+<iframe width="560" height="315" src="https://maps.library.utoronto.ca/workshops/ArcGISOnline/2021/videos/ArcGISOnlinePart1/" frameborder="0" allowfullscreen> iframe not supported </iframe>
 
-#### [Part II: Formatting Data](https://maps-library-utoronto-ca.myaccess.library.utoronto.ca/workshops/ArcGISOnline/2021/videos/ArcGISOnlinePart2/) (video)
+#### [Part II: Formatting Data](https://maps.library.utoronto.ca/workshops/ArcGISOnline/2021/videos/ArcGISOnlinePart2/) (video)
+<iframe width="560" height="315" src="https://maps.library.utoronto.ca/workshops/ArcGISOnline/2021/videos/ArcGISOnlinePart2/" frameborder="0" allowfullscreen> iframe not supported </iframe>
 
-#### [Part III: Editing Data](https://maps-library-utoronto-ca.myaccess.library.utoronto.ca/workshops/ArcGISOnline/2021/videos/ArcGISOnlinePart3/) (video)
+#### [Part III: Editing Data](https://maps.library.utoronto.ca/workshops/ArcGISOnline/2021/videos/ArcGISOnlinePart3/) (video)
+<iframe width="560" height="315" src="https://maps.library.utoronto.ca/workshops/ArcGISOnline/2021/videos/ArcGISOnlinePart3/" frameborder="0" allowfullscreen> iframe not supported </iframe>
 
-#### [Part IV: Choropleth Mapping](https://maps-library-utoronto-ca.myaccess.library.utoronto.ca/workshops/ArcGISOnline/2021/videos/ArcGISOnlinePart4/) (video)
+#### [Part IV: Choropleth Mapping](https://maps.library.utoronto.ca/workshops/ArcGISOnline/2021/videos/ArcGISOnlinePart4/) (video)
+<iframe width="560" height="315" src="https://maps.library.utoronto.ca/workshops/ArcGISOnline/2021/videos/ArcGISOnlinePart4/" frameborder="0" allowfullscreen> iframe not supported </iframe>
 
 ### Tutorials
 
