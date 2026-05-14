@@ -16,14 +16,14 @@ permalink: "/"  #! Remove this if not the homepage
 Getting started
 ---------------
 
-* [Logging in to ArcGIS Online](https://mdl.library.utoronto.ca/technology/tutorials/logging-arcgis-online) using your UTORid
+* [Logging in to ArcGIS Online](https://mdlutoronto.github.io/arcgis-online-log-in/) using your UTORid
 
 Learning resources
 ------------------
 
 ### Workshops
 
-* [ArcGIS Online Workshop](https://mdl.library.utoronto.ca/technology/tutorials/arcgis-online-workshop-videos), a series of recorded workshop videos that teach you how to format, edit, and map spatial data using ArcGIS Online (embedded below)
+* [ArcGIS Online Workshop](https://mdlutoronto.github.io/arcgis-online-workshop-videos/), a series of recorded workshop videos that teach you how to format, edit, and map spatial data using ArcGIS Online (embedded below)
 	+ To follow along with the videos, please [download the accompanying workshop data](https://maps-library-utoronto-ca.myaccess.library.utoronto.ca/workshops/ArcGISOnline/ArcGISOnlineTutorialData.zip)
 	+ Please note that at this time, a **UTORid and password is required** to view the videos embedded below
 
@@ -41,12 +41,12 @@ Learning resources
 
 ### Tutorials
 
-* [Getting Started with ArcGIS Online (AGOL) Part I](https://mdl.library.utoronto.ca/technology/tutorials/arcgis-online-part-i-november-2021)
-* [Getting Started with ArcGIS Online (AGOL) Part II](https://mdl.library.utoronto.ca/technology/tutorials/arcgis-online-part-ii-november-2021)
+* [Getting Started with ArcGIS Online (AGOL) Part I(https://mdlutoronto.github.io/arcgis-online-part1-2022/)
+* [Getting Started with ArcGIS Online (AGOL) Part II](https://mdlutoronto.github.io/arcgis-online-part2-2021/)
 
 ### Additional resources
 
-* [Accessing Online GIS Classes in ESRI Academy](https://mdl.library.utoronto.ca/technology/tutorials/how-access-online-gis-classes-esri-academy)
+* [Accessing Online GIS Classes in ESRI Academy]()
 * Consider checking with your local public library to see if they offer access to [LinkedIn Learning](https://www.linkedin.com/learning-login/go) where you will find a number of self-paced workshops for ArcGIS Online and other Esri software
 
-* Technique: [Mapping](https://mdlutoronto.github.io/tutorials-search/?technique=Mapping), [Spatial Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Spatial+Analysis) | Tools: [ArcGIS Online](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Online)
+  **Technique:** [Mapping](https://mdlutoronto.github.io/tutorials-search/?technique=Mapping), [Spatial Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Spatial+Analysis) \| **Tools:** [ArcGIS Online](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Online)
