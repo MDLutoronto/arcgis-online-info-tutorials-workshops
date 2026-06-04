@@ -45,6 +45,7 @@ Getting started
 ---------------
 
 * [Logging in to ArcGIS Online](https://mdlutoronto.github.io/arcgis-online-log-in/) using your UTORid.
+* [When should you use ArcGIS Online?](https://mdlutoronto.github.io/arcgis-online-data-management/01-when-should-you-use-arcgis-online/) Tips for determining whether ArcGIS Online is the best choice for your project.
 
 Learning resources
 ------------------
