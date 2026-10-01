@@ -33,7 +33,7 @@ target="_blank">ArcGIS StoryMaps</a>.
 
 You should be aware, however, that <b>ArcGIS Online is not a permanent archive</b> —
 inactive accounts and old content may be deleted. Please review our 
-<a href="https://mdl.library.utoronto.ca/technology/gis-software/arcgis-online-data-retention-policy"
+<a href="https://library.utoronto.ca/policy/university-toronto-arcgis-online-data-retention-policy-0"
 target="_blank">data retention policy</a> to
 understand how your data is managed and how to preserve important work.
 Additionally, <b>server resources on the platform are limited</b>. <b>Please review
