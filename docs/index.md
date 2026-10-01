@@ -76,13 +76,13 @@ target="_blank">here</a>.
 
 ### Additional resources
 
-* [Accessing Online GIS Classes in Esri Academy](https://mdl.library.utoronto.ca/technology/tutorials/how-access-online-gis-classes-esri-academy)
+* [Accessing Online GIS Classes in Esri Academy](https://mdlutoronto.github.io/gis-class-esri-academy/)
 * Consider checking with your local public library to see if they offer access to [LinkedIn Learning](https://www.linkedin.com/learning-login/go),
 where you will find a number of self-paced workshops for ArcGIS Online and other Esri software.
 * Log in to [O'Reilly Online Learning](https://www.oreilly.com/library-access/)
 with your UTORid to access learning materials on a variety of technical
 topics, including GIS.
-* [Get in contact with the Map and Data Library](https://mdl.library.utoronto.ca/about/contact-form) for further assistance.
+* [Get in contact with the Map and Data Library](https://library.utoronto.ca/contact-us/data-maps) for further assistance.
 
 
   **Techniques:** [Mapping](https://mdlutoronto.github.io/tutorials-search/?technique=Mapping), [Spatial Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Spatial+Analysis) \| **Tools:** [ArcGIS Online](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Online)
